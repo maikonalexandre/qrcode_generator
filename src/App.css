@@ -48,3 +48,19 @@ a {
 a:hover {
   color: white;
 }
+
+footer {
+  margin: 0;
+  align-self: center;
+}
+footer p {
+  color: #646cff;
+  margin: 0;
+  font-size: 14px;
+}
+footer p a {
+  color: #646cff;
+  margin: 0;
+  font-size: 14px;
+
+}

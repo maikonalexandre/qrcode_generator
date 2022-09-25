@@ -39,6 +39,13 @@ function App() {
         <a href={imgQrCode} download="qrcode.png">
           Download
         </a>
+
+        <footer>
+          <p>
+            made by{" "}
+            <a href="https://github.com/maikonalexandre">@maikonalexandredev</a>
+          </p>
+        </footer>
       </div>
     </div>
   );
