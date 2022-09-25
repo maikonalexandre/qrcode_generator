@@ -23,7 +23,7 @@ $ yarn dev
 * [react-qr-code](https://www.npmjs.com/package/react-qr-code)
 * [qrcode](https://www.npmjs.com/package/qrcode)
 
-## Veja na web :earth_africa:
+## :earth_africa: Veja na web 
 [Qrcode generator](https://qrcode-generator-lovat.vercel.app/)
 
 <hr>
