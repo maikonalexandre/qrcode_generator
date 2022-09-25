@@ -42,7 +42,7 @@ function App() {
 
         <footer>
           <p>
-            made by{" "}
+            made by{""}
             <a href="https://github.com/maikonalexandre">@maikonalexandredev</a>
           </p>
         </footer>
