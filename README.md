@@ -3,7 +3,7 @@
 ![Animação-pt16](https://user-images.githubusercontent.com/86725282/192166310-81527e3c-e66a-436c-97b5-764f6c44a196.gif)
 
 ## 📚 Informações sobre o projeto
-Esse é uma página que gera um qrcode a partir de uma url ou texto fornecido pelo usuário. Esse projeto foi desenvolvido para testar a biblioteca react-qr-code e qrcode
+Esse é uma página que gera um qrcode a partir de uma url ou texto fornecido pelo usuário. Esse projeto foi desenvolvido para testar a biblioteca react-qr-code e qrcode.
 
 ## ⚙️ Instalação
 ```
