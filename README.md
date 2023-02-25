@@ -1,5 +1,7 @@
 # qrcode_generator :open_file_folder:
 
+ :earth_africa:  [Qrcode generator](https://qrcode-generator-lovat.vercel.app/)
+
 ![Animação-pt16](https://user-images.githubusercontent.com/86725282/192166310-81527e3c-e66a-436c-97b5-764f6c44a196.gif)
 
 ## 📚 Informações sobre o projeto
@@ -23,8 +25,6 @@ $ yarn dev
 * [react-qr-code](https://www.npmjs.com/package/react-qr-code)
 * [qrcode](https://www.npmjs.com/package/qrcode)
 
-## :earth_africa: Veja na web 
-[Qrcode generator](https://qrcode-generator-lovat.vercel.app/)
 
 <hr>
 <p align="center">Feito com 💙 por <strong>Maikon Alexandre</strong></p>
